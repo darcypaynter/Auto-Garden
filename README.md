@@ -1,10 +1,10 @@
-## Auto Garden
+# Auto Garden
 
-#APIs used
--Flask
--React
+## APIs used
+- Flask
+- React
 
-#Comands
+## Comands
 activate
 
 ```
