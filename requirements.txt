@@ -51,6 +51,7 @@ pyRFC3339==1.1
 python-apt===2.2.0-ubuntu0.21.04.1
 python-dateutil==2.8.1
 python-debian==0.1.39
+python-dotenv==0.19.0
 pytz==2021.1
 pyxdg==0.27
 PyYAML==5.3.1
